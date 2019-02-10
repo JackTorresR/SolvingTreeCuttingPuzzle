@@ -1,2 +1,1 @@
-# SolvingTreeCuttingPuzzle
-I just created this repository to keep this wonderful code challenge that I have done.
+I have had created this little repository to show you, guys, how I solve the puzzle of cutting a tree in a non-decreasing way, I hope you can understand the code.
